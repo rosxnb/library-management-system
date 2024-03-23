@@ -39,4 +39,6 @@ $ uvicorn main:server --reload
 - [Swagger](http://localhost:8000/docs)
 - [Alternate Documentation](http://localhost:8000/redoc)
 
+
+Swagger screenshot is shown below:
 ![Swagger Documentation](./images/swagger.png)
